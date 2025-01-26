@@ -8,4 +8,3 @@ Para ejecutar el sistema, debes poner:
 
 
 Sitema de registro 2
-soo
